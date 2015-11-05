@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 文本自动调整大小显示自定义属性 -->
+<resources>
+
+    <declare-styleable name="AutoAdjustTextSize">
+        <attr name="minTextSize" format="dimension" />
+        <attr name="maxTextSize" format="dimension">
+        </attr>
+    </declare-styleable>
+
+</resources>
