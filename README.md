@@ -1,0 +1,2 @@
+# AutoAdjustSizeEditText
+根据输入文本长度，自动调整字体大小的自定义文本输入框控件
